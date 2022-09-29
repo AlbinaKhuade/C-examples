@@ -1,0 +1,15 @@
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.exe
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.deps.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.runtimeconfig.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.csproj.AssemblyReference.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.AssemblyInfoInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.AssemblyInfo.cs
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.csproj.CoreCompileInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\refint\ex001_HelloConsole.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.genruntimeconfig.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Examples\ex001_HelloConsole\obj\Debug\net6.0\ref\ex001_HelloConsole.dll
